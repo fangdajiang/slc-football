@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Team",
+    "origin": "Team Origin",
+    "concept": "Philosophy",
+    "status": "Current Status",
+    "future": "Future Vision"
+  },
+  "hero": {
+    "title": "FOOTBALL TRAINING",
+    "subtitle": "SLC Shanghai Victory Light Youth Community Football Team",
+    "description": "Cultivating brave, independent, confident and loving youth",
+    "joinUs": "Join Us"
+  },
+  "about": {
+    "title": "Team Overview",
+    "teamName": "Team Name",
+    "teamNameValue": "SLC Shanghai Victory Light",
+    "founded": "Founded",
+    "foundedValue": "September 2021",
+    "homeField": "Home Field",
+    "homeFieldValue": "Shanghai Sanlin Shengchu Sports Center",
+    "homeFieldDesc": "Although the facilities are simple, they are full of vitality and provide children with ample space to run.",
+    "values": {
+      "brave": "Brave",
+      "independent": "Independent",
+      "confident": "Confident",
+      "loving": "Loving"
+    }
+  },
+  "origin": {
+    "title": "Team Origin",
+    "subtitle": "About Us",
+    "context": "Founding Background",
+    "contextDesc": "Founded in September 2021 by Wang Shuo (Spain Level 2), Min Dong (Shanghai Football Association Level E) and Gong Peiyu (Shanghai Football Association Level E). It aimed to let children around us enjoy life and football, strengthen their physique, and plant the seeds of football in children's hearts. In order to provide children with a formal football training platform, I and a group of enthusiastic parents and football enthusiasts jointly formed this youth community football team, hoping that children can gain happiness and growth through football."
+  },
+  "future": {
+    "title": "Future Vision",
+    "shortTerm": "Short-term Goals",
+    "shortTermDesc": "In the upcoming training and competitions, we will better combine Spanish football training concepts and experience with our team's own characteristics to continue improving children's understanding of football and their football skills, striving for better results. At the same time, we will strengthen exchanges and cooperation with surrounding community teams and organize more friendly matches.",
+    "longTerm": "Long-term Goals",
+    "longTermDesc": "We hope to cultivate more excellent young football talents and contribute to the development of Chinese football. At the same time, we will promote our community football culture to a wider area.",
+    "cooperation": "Cooperation Vision",
+    "cooperationDesc": "We are very much looking forward to jointly establishing a Shanghai youth training base with Terrassa Football Club. We believe that with Terrassa Football Club's advanced youth training philosophy and rich experience, combined with our deep roots in community football and broad mass base, we will be able to create a brand new platform for youth football development in Shanghai and even China, cultivating more excellent football talents."
+  }
+}

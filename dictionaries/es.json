@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Resumen del Equipo",
+    "origin": "Origen del Equipo",
+    "concept": "Concepto de Operación",
+    "status": "Situación Actual",
+    "future": "Perspectivas Futuras"
+  },
+  "hero": {
+    "title": "ENTRENAMIENTO DE FÚTBOL",
+    "subtitle": "Equipo Infantil Comunitario SLC Shanghai Victory Light",
+    "description": "Cultivando jóvenes valientes, independientes, seguros y amorosos",
+    "joinUs": "Únete a Nosotros"
+  },
+  "about": {
+    "title": "Resumen del Equipo",
+    "teamName": "Nombre del Equipo",
+    "teamNameValue": "SLC Shanghai Victory Light",
+    "founded": "Fecha de Fundación",
+    "foundedValue": "Septiembre de 2021",
+    "homeField": "Cancha Principal",
+    "homeFieldValue": "Centro Deportivo Shengchu de Sanlin, Shanghai",
+    "homeFieldDesc": "Aunque las instalaciones son simples, están llenas de vitalidad y proporcionan a los niños suficiente espacio para correr.",
+    "values": {
+      "brave": "Valiente",
+      "independent": "Independiente",
+      "confident": "Seguro",
+      "loving": "Amoroso"
+    }
+  },
+  "origin": {
+    "title": "Origen del Equipo",
+    "subtitle": "Sobre Nosotros",
+    "context": "Contexto de Fundación",
+    "contextDesc": "Fue fundado en septiembre de 2021 por Wang Shuo (Nivel 2 de España), Min Dong (Nivel E de la Asociación de Fútbol de Shanghai) y Gong Peiyu (Nivel E de la Asociación de Fútbol de Shanghai). Tenía como objetivo que los niños cercanos disfrutaran de la vida y del fútbol, fortalecieran su cuerpo y sembraran la semilla del fútbol en sus corazones. Con el fin de proporcionar a los niños una plataforma de entrenamiento de fútbol formal, yo y un grupo de padres entusiastas y aficionados al fútbol nos unimos para formar este equipo infantil comunitario, con la esperanza de que los niños puedan disfrutar y crecer a través del deporte del fútbol."
+  },
+  "future": {
+    "title": "Perspectivas Futuras",
+    "shortTerm": "Objetivos a Corto Plazo",
+    "shortTermDesc": "En los próximos entrenamientos y torneos, combinaremos más y mejor los conceptos y experiencias de entrenamiento del fútbol español con las características propias del equipo para seguir mejorando la comprensión de los niños sobre el deporte del fútbol y sus habilidades futbolísticas, buscando mejores resultados. Al mismo tiempo, fortaleceremos el intercambio y la cooperación con los equipos de fútbol de las comunidades circundantes y organizaremos más torneos amistosos.",
+    "longTerm": "Objetivos a Largo Plazo",
+    "longTermDesc": "Esperamos poder cultivar a más jóvenes talentos de fútbol y contribuir al desarrollo del fútbol en China. Además, extendemos nuestra cultura del fútbol comunitario a una área más amplia.",
+    "cooperation": "Visión de Cooperación",
+    "cooperationDesc": "Estamos muy ansiosos por poder establecer conjuntamente una base de entrenamiento juvenil en Shanghai con el Club de Fútbol de Tarragona. Creemos que, con la avanzada filosofía y rica experiencia en el entrenamiento juvenil del Club de Fútbol de Tarragona, combinados con nuestras profundas raíces en el fútbol comunitario y amplia base de masas, seguro que podremos crear una plataforma completamente nueva para el desarrollo del fútbol infantil en Shanghai e incluso en China, y cultivar a más talentosos jugadores de fútbol."
+  }
+}
