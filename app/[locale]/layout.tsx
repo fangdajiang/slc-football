@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
 import { locales } from "@/lib/i18n";
+import { generateMetadata as generateSiteMetadata } from "@/lib/metadata";
 import "../globals.css";
 
 const inter = Inter({
@@ -11,16 +12,14 @@ const inter = Inter({
   display: "swap",
 });
 
-export const metadata: Metadata = {
-  title: "SLC 上海胜利之光少儿社区足球队",
-  description: "培养勇敢、独立、自信、有爱的少年 - SLC Shanghai Victory Light Youth Community Football Team",
-  keywords: ["足球", "青训", "上海", "少儿足球", "社区足球", "football", "youth training", "Shanghai"],
-  openGraph: {
-    title: "SLC 上海胜利之光少儿社区足球队",
-    description: "培养勇敢、独立、自信、有爱的少年",
-    type: "website",
-  },
-};
+export async function generateMetadata({
+  params,
+}: {
+  params: { locale: string };
+}): Promise<Metadata> {
+  const { locale } = await params;
+  return generateSiteMetadata(locale);
+}
 
 export default async function LocaleLayout({
   children,
